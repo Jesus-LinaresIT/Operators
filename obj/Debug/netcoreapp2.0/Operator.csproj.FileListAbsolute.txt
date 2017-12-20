@@ -1,0 +1,11 @@
+C:\Users\raule\Source\repos\Operator\Operator\bin\Debug\netcoreapp2.0\Operator.deps.json
+C:\Users\raule\Source\repos\Operator\Operator\bin\Debug\netcoreapp2.0\Operator.runtimeconfig.json
+C:\Users\raule\Source\repos\Operator\Operator\bin\Debug\netcoreapp2.0\Operator.runtimeconfig.dev.json
+C:\Users\raule\Source\repos\Operator\Operator\bin\Debug\netcoreapp2.0\Operator.dll
+C:\Users\raule\Source\repos\Operator\Operator\bin\Debug\netcoreapp2.0\Operator.pdb
+C:\Users\raule\Source\repos\Operator\Operator\obj\Debug\netcoreapp2.0\Operator.csprojResolveAssemblyReference.cache
+C:\Users\raule\Source\repos\Operator\Operator\obj\Debug\netcoreapp2.0\Operator.csproj.CoreCompileInputs.cache
+C:\Users\raule\Source\repos\Operator\Operator\obj\Debug\netcoreapp2.0\Operator.AssemblyInfoInputs.cache
+C:\Users\raule\Source\repos\Operator\Operator\obj\Debug\netcoreapp2.0\Operator.AssemblyInfo.cs
+C:\Users\raule\Source\repos\Operator\Operator\obj\Debug\netcoreapp2.0\Operator.dll
+C:\Users\raule\Source\repos\Operator\Operator\obj\Debug\netcoreapp2.0\Operator.pdb
