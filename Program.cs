@@ -18,7 +18,6 @@ namespace Operator
             var tip = mealCost * tipPercent / 100;
             var tax = mealCost * taxPercent / 100;
             totalCost = mealCost + tip + tax;
-            //var round = Math.Round(totalCost);
 
 
             Console.WriteLine("The total meal cost is " + Math.Round(totalCost) + " dollars.");
